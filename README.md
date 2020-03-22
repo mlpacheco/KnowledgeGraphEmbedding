@@ -5,7 +5,6 @@ relational learning for NLP. The relational objectives where connected
 to powerful language encoders and features relevant to the tasks at hand
 (BiLSTMs, BERT, etc.)
 
-# The code was adapted from: RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space
 **Introduction**
 
 This is the PyTorch implementation of the [RotatE](https://openreview.net/forum?id=HkgEQnRqYQ) model for knowledge graph embedding (KGE). We provide a toolkit that gives state-of-the-art performance of several popular KGE models. The toolkit is quite efficient, which is able to train a large KGE model within a few hours on a single GPU.
